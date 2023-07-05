@@ -11,3 +11,9 @@ public class array sorted or not {
     }
     
 }
+
+public static void main(string args[])
+    int arr[]={1,3,5};
+system.out.println(isSorted(arr,0));
+ }
+}
