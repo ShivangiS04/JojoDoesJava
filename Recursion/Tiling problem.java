@@ -18,8 +18,3 @@ public class Tiling problem {
        System.out.println(placeTiles(n, m));
    }
 }
-
-
-
-    
-}
