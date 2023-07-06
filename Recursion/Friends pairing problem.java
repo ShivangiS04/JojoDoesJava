@@ -16,6 +16,3 @@ public class Friends pairing problem {
        System.out.println(pairFriends(n));
    }
 }
-
-    
-}
