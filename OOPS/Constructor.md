@@ -1,4 +1,4 @@
-**Constructor**
+# **Constructors in JAVA**
 
 Constructor is a special method which is invoked automatically at the time of object creation. It is used to initialize the data members of new objects generally. 
 
@@ -20,7 +20,7 @@ Constructor is a special method which is invoked automatically at the time of ob
 ***There can be three types of constructors in Java.***
 
 
-**1)Non-Parameterized constructor**
+## **1)Non-Parameterized constructor**
 
 A constructor which has no argument is known as non-parameterized constructor(or no-argument constructor). It is invoked at the time of creating an object. If we don’t create one then it is created by default by Java.
 
@@ -35,7 +35,7 @@ class Student {
 }
 ```
 
-**2. Parameterized constructor :**
+## **2. Parameterized constructor :**
 
  Constructor which has parameters is called a parameterized constructor. It is used to provide 
 different values to distinct objects. 
@@ -51,7 +51,7 @@ class Student {
    }
 }
 ```
-**3. Copy constructor :**
+## **3. Copy constructor :**
 
  A Copy constructor is an overloaded 
 constructor used to declare and initialize an object from another object. There is only a user defined copy constructor in Java
