@@ -1,5 +1,6 @@
 ## Encapsulation
 
+### Another way to think about encapsulation is that it is a protective shield that prevents the data from being accessed by the code outside this shield. 
 
 1)Encapsulation is the process of combining data and functions into a single unit called class
 
