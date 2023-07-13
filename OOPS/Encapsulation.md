@@ -19,3 +19,14 @@
 ## Data hiding: 
 
 A language feature to restrict access to members of an object, reducing the negative effect due to dependencies. e.g. "protected", "private" feature in Java
+
+
+```
+//Encapsulation using private modifier 
+  
+//Employee class contains private data called employee id and employee name
+class Employee {
+    private int empid;
+      private String ename;
+}
+```
