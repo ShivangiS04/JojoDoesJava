@@ -1,9 +1,10 @@
 import java.util.HashSet;
-import java.util.Iterator;
+import java.util.Iterator;//package must for iterator function to be performed 
 
 
 public class Hashing {
    public static void main(String args[]) {
+      //Creating
        HashSet<Integer> set = new HashSet<>();
       
        //Add
@@ -17,7 +18,7 @@ public class Hashing {
        System.out.println("size of set is : " + set.size());
 
 
-       //Search
+       //Search-contains
        if(set.contains(1)) {
            System.out.println("present");
        }
@@ -36,10 +37,11 @@ public class Hashing {
 
 
        //Print all elements
-       System.out.println(set);
+       System.out.println(set);//in bracket the name of the set to be put 
 
 
        //Iteration - HashSet does not have an order
+      //hasNext; next functions 
        set.add(0);
        Iterator it = set.iterator();
         while (it.hasNext()) {
