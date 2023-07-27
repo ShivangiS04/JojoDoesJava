@@ -1,3 +1,4 @@
+
 public class Tries {
    static class Node {
        Node[] children = new Node[26];
