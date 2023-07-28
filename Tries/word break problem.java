@@ -1,4 +1,3 @@
-
 public static boolean wordBreak(String key) {
        int len = key.length();
 
