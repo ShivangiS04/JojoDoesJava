@@ -75,3 +75,25 @@ class Circle extends Shape {
    }  
 }
 ```
+
+### Benefits of polymorphism**
+
+
+Polymorphism offers a number of benefits, including:
+
+## Code reuse: 
+
+Polymorphism allows you to reuse code by writing methods that can be used with different types of objects. This can save you time and effort, and it can also make your code more maintainable.
+
+
+## Flexibility: 
+Polymorphism makes your code more flexible by allowing you to change the behavior of your program at runtime. This can be useful for implementing features such as pluggability and dynamic dispatch.
+
+
+
+## Extensibility:
+Polymorphism makes your code more extensible by allowing you to add new functionality without breaking existing code. This is because you can override existing methods in subclasses to provide new implementations.
+
+
+**Conclusion**
+Polymorphism is a powerful feature of Java that can be used to write more reusable, flexible, and extensible code. By understanding how to use polymorphism, you can write better code that is easier to maintain and extend.
